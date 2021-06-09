@@ -3,4 +3,5 @@ Hello Svyatoslav
 I'm going to play mafia this evening?
 No, I work 18pm to morning
 How are you?
+It's good. staiding C#.
 
