@@ -1,4 +1,8 @@
 Hello Dasha/
 hello Svyatoslav/
+<<<<<<< HEAD
 I'm going to play mafia this evening
 Добавляем в гит
+=======
+how are you?
+>>>>>>> 387042f545208c8a2e8485b6d98a1eeab6dc2e08
